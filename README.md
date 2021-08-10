@@ -1,5 +1,5 @@
 # README
 
-Hey, I am Leo Hui.
+Funny extensions recommended for web developer.
 
-This is my recommended extensions, hope to enjoy!
+No need to install this Extension Pack, pick what you like then install it!
